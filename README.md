@@ -1,7 +1,11 @@
 # computer_vision_cat_image
 This Jupyter notebook plays with a cat image using computer vision (Open CV2), and did a few simple image processing / manipulation.
 
-Load the image images/cat.png and perform the following:
+Load the image images/cat2.png: 
+
+![funny cat](images/cat2.png)
+
+then perform the following:
 1.	Image scaling: Reduce the image to half of its original size.
   
 2.	Rotation: Rotate the image by 30 degrees clockwise.
