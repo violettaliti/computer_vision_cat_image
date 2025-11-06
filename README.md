@@ -1,4 +1,4 @@
-# computer_vision_cat_image
+# computer vision - cat image
 This Jupyter notebook plays with a cat image using computer vision (Open CV2), and did a few simple image processing / manipulation.
 
 Load the image images/cat2.png: 
